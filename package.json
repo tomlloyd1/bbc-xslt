@@ -1,0 +1,26 @@
+{
+  "name": "bbc-xslt",
+  "version": "0.4.1",
+  "description": "Node.js bindings for libxslt compatible with libxmljs (variant of node-libxslt)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leonie-/bbc-xslt.git"
+  },
+  "keywords": [
+    "xml",
+    "xslt",
+    "libxslt",
+    "bindings",
+    "node-libxslt"
+  ],
+  "author": "Leonie Kenyon and Alban Mouton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Leonie-/bbc-xslt/issues"
+  },
+  "homepage": "https://github.com/Leonie-/bbc-xslt#readme"
+}
