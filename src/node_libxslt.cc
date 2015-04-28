@@ -1,4 +1,7 @@
+#ifndef BUILDING_NODE_EXTENSION
 #define BUILDING_NODE_EXTENSION
+#endif
+
 #include <iostream>
 #include <node.h>
 #include <nan.h>
